@@ -1,0 +1,13 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+*.ps1
+*.bat
+scratch*
+.gemini
+*.log
+README.md
+DEPLOYMENT.md
+
